@@ -1,0 +1,4 @@
+Linus Torvals,Kali Linux,2020,none
+Alkhafi Muhammad Syam,Master Java,2021,Gramedia
+Otong,The Otong,2021,Cobain
+Ecep,Mahair Kanji,2022,Gramedia
